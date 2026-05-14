@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "K75SJNNM99.com.rinabrata.SwiftUIAuthManage"
+        ],
+        "components": [
+          {
+            "/": "/profile/*"
+          }
+        ]
+      }
+    ]
+  }
+}
